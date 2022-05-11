@@ -1,0 +1,9 @@
+.idea
+.bsp
+.metals
+
+# sbt
+project/project/
+project/target/
+target/
+
